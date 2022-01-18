@@ -23,3 +23,4 @@ House.print_count()
 merchandise1.show_detail()
 merchandise2.show_detail()
 merchandise3.show_detail()
+
